@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Pagina_inicia_Movil"
+   data-name="Pagina inicia Movil"
+   viewBox="0 0 148 30"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo2.svg">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="687"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="2.6959459"
+     inkscape:cx="74"
+     inkscape:cy="15"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Pagina_inicia_Movil" />
+  <defs
+     id="defs3">
+    <style
+       id="style5">.cls-1{fill:#fff;}.cls-2{fill:#12afaf;}</style>
+  </defs>
+  <title
+     id="title7" />
+  <g
+     id="Logo">
+    <g
+       id="xamagon">
+      <path
+         id="Logo-2"
+         class="cls-2"
+         d="M1014.1,13.6a2.8,2.8,0,0,0-2.3,1.3l-7.3,12.6a3,3,0,0,0,0,2.6l7.3,12.4a2.6,2.6,0,0,0,2.3,1.1h14.6a2.6,2.6,0,0,0,2.3-1.1l7.3-12.5a2.4,2.4,0,0,0,0-2.6L1031,14.9a2.8,2.8,0,0,0-2.3-1.3h-14.6Zm0.1,7.1h2.6l0.3,0.3,4.3,7.6v0.2h0l4.3-7.7,0.3-.3h2.5a0.5,0.5,0,0,1,.3.6l-4.2,7.5,4.2,7.4a0.4,0.4,0,0,1-.3.5H1026l-0.3-.2-4.3-7.5h-0.1l-4.3,7.5-0.3.2h-2.5a0.3,0.3,0,0,1-.4-0.2,0.4,0.4,0,0,1,.1-0.3l4.2-7.4-4.2-7.5a0.4,0.4,0,0,1,.2-0.5h0V20.7Z"
+         transform="translate(-1004.2 -13.6)" />
+    </g>
+  </g>
+</svg>

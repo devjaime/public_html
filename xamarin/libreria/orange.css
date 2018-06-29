@@ -1,0 +1,158 @@
+﻿/*********************************** Pagina de contenido ***********************************/
+/* Fondo para la página que muestra el contenido del curso */
+.BackColorContent {
+     background:url('orangebg.jpg') no-repeat center fixed;
+     background-size:cover;
+     background-repeat:no-repeat
+     background-position: center;
+    /*background-color: black;#2B1601;*/
+
+}
+
+
+/* Barra de encabezado */
+.BackColorHeader{
+    background-color:rgba(255,255,255,0.15);
+}
+
+/* Texto del encabezado */
+.ColorHeader{
+    color:white !important;
+}
+.ColorHeader a{
+    outline:none;
+}
+
+
+/* Pie de página */
+.BackColorFooter{
+    background-color:rgba(255,255,255,0.2);
+}
+
+/* Texto pie de página */
+.ColorFooter{
+    color:white;
+}
+.ColorFooter a{
+    outline:none;
+    color:white;
+    text-decoration:none;
+}
+
+
+
+/* Color de titulos de Curso, Modulos y lecciones que aparecen en la parte de arriba de todo el contenido */ 
+
+.ColorTitle{
+    color:white !important;
+}
+
+/* Color del tile de las lecciones */
+.BackColorLesson{
+     background-color:rgba(0,0,0,0.45) !important; 
+}
+
+/* Color del texto del Tile de lecciones */
+.ColorLesson{
+    color:white !important;
+}
+
+/* Color del Tile de los tópicos */
+.BackColorTopic{
+    background-color:rgba(0,0,0,0.3);
+}
+.ColorTopic{
+     color:white;
+}
+
+/*** Estilo para los iconos segun el tipo de recurso**/
+/** tomar en cuenta la ruta de la imagen **/
+.Video{
+    /*Imagen con un tamaño maximo de 35x28px */    
+    background:url('videowhite.png');    
+}
+
+.Download{
+     /*Imagen con un tamaño maximo de 17x28px */  
+    background:url('downloadwhite.png');
+}
+.Youtube{
+    /*Imagen con un tamaño maximo de 34x33px */ 
+    background:url('youtubewhite.png');
+}
+.Clock{
+    /*Imagen con un tamaño maximo de 28x28px */ 
+    background:url('clockwhite.png');
+}
+
+.Link{
+ /*Imagen con un tamaño maximo de 28x28px */
+    background:url('linkwhite.png');
+}
+.Lock{
+  /*Imagen con un tamaño maximo de 22x28px */
+    background:url('linkwhite.png');
+    float:left;
+    background-repeat: no-repeat;
+
+}
+
+/*Color del texto de la descripción del tópico.*/
+.ColorVideoDescription{
+    color: white !important;
+    text-align:center;
+    background-color:rgba(0,0,0,0.4);
+    padding:15px;
+}
+
+/*********************************** fin Pagina de contenido ***********************************/
+
+
+
+
+/********* Ventana Modal de Avisos **********/
+
+/*color de fondo o imagen del fondo del encabezado de la ventana modal de avisos*/
+.MessageModalHeaderBackground{
+   background: #E77006;
+  
+}
+
+/*Background del cuerpo de la ventana*/
+.MessageModalBackground {
+    background:whitesmoke;   /*#01213F!important;*/
+}
+
+/* Color de la letra  */
+.MessageModalFont {
+    color : white;
+}
+
+
+/* Color de fondo y color de letra del titulo de los avisos
+   en la ventana modal*/
+.AdvertTitle{
+     background-color:#E77006!important;
+     color: white;
+}
+/*****************************************/
+
+
+
+/*** Color de la letra de los enlaces que apareceran cuando el topico es
+     de tipo Enlace o descarga, debe considerarce que el fondo de la imagen  sobre la cual estan situados
+     es de color blanco *******/
+.LinkTitle a{
+    color: #EC7B0F;
+}
+
+/***Estilo para personalizar el color del texto del enlace,
+     en caso de no querer personalizaro en su evento hover, puede omitirse ***/
+.LinkTitle a:hover {
+    color:  #E9800C;
+    font-size:12pt;
+}
+
+
+
+
