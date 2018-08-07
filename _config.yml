@@ -1,0 +1,21 @@
+
+title: Jaime Hernandez # your title
+url: 'https://devjaime.github.io/'
+baseurl: '/devjaime.github.io' #change it according to your repository name
+
+
+
+# Profile information
+yourname: Jaime Hernández  ## put your name
+location: Santiago de Chile
+
+
+## Social Profiles
+facebook: https://www.facebook.com/hernandezcertain ## your facebook account url
+twitter: https://twitter.com/HsJhernandez  ## your twitter account url
+linkedin: https://www.linkedin.com/in/jhernandezsalgado/  ## your linkedin account url
+
+
+
+
+# Update all the sections by editing the files inside _includes folder.
